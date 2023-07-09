@@ -72,7 +72,7 @@ WithdrawBalance - For Withdrawing the balance from your bank account to metamask
 TransferHandler -For transferring the funds between accounts in the bank. Make sure both the banks are listed in the network.
 
 ## Video Walkthrough
-
+https://drive.google.com/drive/folders/1vxbpF01xRaZDMLrqDFrbUJuzLY0bCT4v?usp=sharing
 
 ## License
 This contract is released under the [GNU GENERAL PUBLIC LICENSE]. See LICENSE file for more information.
